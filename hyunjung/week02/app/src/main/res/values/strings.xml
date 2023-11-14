@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week02</string>
+    <string name="title_activity_sixth">SixthActivity</string>
+    <string name="title_activity_seventh">SeventhActivity</string>
+    <string name="title_activity_eighth">eighthActivity</string>
+    <string name="title_activity_ninth">NinthActivity</string>
+</resources>
